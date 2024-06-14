@@ -10,11 +10,11 @@ public class tablebyloop {
 	System.out.println("Which table do you want__");
 	int num = table.nextInt();
 	
-	for(int i = 10; i>=1 ; i--
-			) {
+	for(int i = 10; i>=1 ; i--) {
 		
 		System.out.println(num + "*" + i + "=" + num*i);
 		}
+	table.close();
 		}
-
+	
 }
