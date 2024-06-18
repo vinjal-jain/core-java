@@ -35,7 +35,7 @@ public class automobile {
 		public int getSpeedupto() {
 			return speedupto;
 		}
-		public void setSpeedupto(int speed) {
+		public void setSpeedupto(int speedupto) {
 			this.speedupto = speedupto;
 		}
 		public int getGear() {

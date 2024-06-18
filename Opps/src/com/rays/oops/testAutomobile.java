@@ -20,7 +20,7 @@ public class testAutomobile {
 		System.out.println("Total Gear in this monster is :-"+ a.getGear() );
 		
 		
-		a.setGear(3);
+		a.setGear(-1);
 		
 		System.out.println("Monster in gear:-" + a.gear);
 		
